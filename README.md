@@ -1,7 +1,13 @@
 # E-commerce Back End Starter Code
 
-* I worked on columns in models
+**tech**:
+* express
+* mySQL
 
-* I worked on routers
+**models**:
+* category
+* product
+* tag
 
-* add on small stuff in server.js
+* link to the video
+https://drive.google.com/file/d/1R_YltajulsHMTs0VYlhbpDDnmsbkHpO_/view
